@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpnow)](https://github.com/sharpnow/github-readme-stats)
-
+[![sharpnow's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpnow&show_icons=true)](https://github.com/sharpnow/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharpnow&hide=javascript,html)](https://github.com/sharpnow/github-readme-stats)
