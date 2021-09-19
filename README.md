@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharpnow)](https://github.com/sharpnow/github-readme-stats)
+
